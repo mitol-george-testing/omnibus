@@ -1,2 +1,6 @@
 menu:
-  mainmenu: []
+  mainmenu:
+  - identifier: 417df552-369d-421a-b683-9683040e6de3
+    name: other pdf link
+    url: content/other-pdf.md
+    weight: 0
