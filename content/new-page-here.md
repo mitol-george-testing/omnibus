@@ -7,7 +7,6 @@ address:
 pdfs:
   content:
   - 5184067d-4153-4322-8ab0-7f918261f084
-  - 417df552-369d-421a-b683-9683040e6de3
   website: omnibus
 tags:
 - Design
