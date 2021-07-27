@@ -4,3 +4,7 @@ menu:
     name: other pdf link
     url: content/other-pdf.md
     weight: 0
+  - identifier: external--631280213-1627422093646
+    name: external link
+    url: http://example.com
+    weight: 10
