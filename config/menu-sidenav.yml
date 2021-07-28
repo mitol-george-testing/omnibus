@@ -8,8 +8,8 @@ menu:
     name: new link
     url: http://example.com
     weight: 10
-  - identifier: 5184067d-4153-4322-8ab0-7f918261f084
+  - identifier: 417df552-369d-421a-b683-9683040e6de3
     name: other pdf link
     parent: external--631280213-1627422093646
-    url: content/jetblue-receipt.md
+    url: content/other-pdf.md
     weight: 0
