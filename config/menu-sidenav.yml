@@ -8,3 +8,7 @@ menu:
     name: external link
     url: http://example.com
     weight: 10
+  - identifier: external--631280213-1627478990761
+    name: new link
+    url: http://example.com
+    weight: 20
