@@ -8,8 +8,8 @@ menu:
     name: new link
     url: http://example.com
     weight: 10
-  - identifier: 5151e575-e89b-4f61-84d8-7a0943c04031
+  - identifier: 417df552-369d-421a-b683-9683040e6de3
     name: other pdf link
     parent: external--631280213-1627422093646
-    url: content/not-a-pdf.md
+    url: content/other-pdf.md
     weight: 0
